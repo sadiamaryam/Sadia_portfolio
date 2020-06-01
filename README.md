@@ -2,7 +2,7 @@
 
 Data Science Portfolio
 
-# Project 1 : Human Resource Analysis 
+# [Project 1 : Human Resource Analysis ][https://github.com/sadiamaryam/Sadia_portfolio]
 ## Data Source :
 
 We have ' Human Resource ' data set (from Kaggle:William Walter:https://www.kaggle.com/colara/human-resource).  
