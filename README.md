@@ -19,6 +19,9 @@ In this notebook, we will work on the project that is based on understanding wha
 
 The best Prediction Performance was achieved with a Random Forest Regressor using all features in the data set and resulted in the following metrics :
 1) Accuracy : 0.989778
+
 2) Precision : 0.992516
+
 3) Recall : 0.965423
+
 4) F1_score : 0.978782
