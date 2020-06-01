@@ -1,4 +1,7 @@
 # sadia_portfolio
+
+Data Science Portfolio
+
 # Project 1 : Human Resource Analysis 
 ## Data Source :
 
@@ -18,6 +21,7 @@ In this notebook, we will work on the project that is based on understanding wha
 3 different Learning Models ( Logistic Regression, Random Forest, Ada Boost ) were tested, and we have achieved the best Prediction Performance using Random Forest, followed by Ada Boost, then Logistic Regression.
 
 The best Prediction Performance was achieved with a Random Forest Regressor using all features in the data set and resulted in the following metrics :
+
 1) Accuracy : 0.989778
 
 2) Precision : 0.992516
